@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-I am Bryan, I'm working on building my startup backed by Entrepreneur First, Europe's leading incubator. AI for Biology and Healthcare Tinkerer. Rank No. 1 graduate with Triple 1st Class Honours from the University of Cambridge. BA in Biology and Genetics, MSc in Computational and Systems Biology. Trained in Big Data Biology & Health, AI, and Finance.
+I am Bryan, I'm a Cambridge trained Computational Biologist building my startup backed by Entrepreneur First, Europe's leading incubator. AI for Biology and Healthcare Tinkerer. Rank No. 1 graduate with Triple 1st Class Honours from the University of Cambridge. BA in Biology and Genetics, MSc in Computational and Systems Biology. Trained in Big Data Biology & Health, AI, and Finance.
 
-- 🔭 I’m currently working on explanatory and predictive models of complex biological systems.
+- 🔭 I’ve built explanatory and predictive models of complex biological systems for the UK Medical Research Council and the University of Cambridge and have worked as a Mulitomic Data analyst for the[ Durbin lab](https://scholar.google.co.uk/citations?user=5UfPNmQAAAAJ&hl=en) and Gurdon Cancer Research Institute.
 - 🌱 I’m learning Deep Learning and forefront Deep Learning on Multiomic Datasets.
 - 💬 Ask me about Biology and Omics!
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/bryantanwz/)
+- 👯 I’m looking to collaborate on AI x Biology startups!
 
 <!--
 **bryantanwz/bryantanwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
