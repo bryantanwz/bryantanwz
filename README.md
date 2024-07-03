@@ -1,11 +1,18 @@
 ## Hi there 👋
 
+I am Bryan, I'm working on building my startup backed by Entrepreneur First, Europe's leading incubator. AI for Biology and Healthcare Tinkerer. Rank No. 1 graduate with Triple 1st Class Honours from the University of Cambridge. BA in Biology and Genetics, MSc in Computational and Systems Biology. Trained in Big Data Biology & Health, AI, and Finance.
+
+- 🔭 I’m currently working on explanatory and predictive models of complex biological systems.
+- 🌱 I’m learning Deep Learning and forefront Deep Learning on Multiomic Datasets.
+- 💬 Ask me about Biology and Omics!
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/bryantanwz/)
+
 <!--
 **bryantanwz/bryantanwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on LLMs f
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
