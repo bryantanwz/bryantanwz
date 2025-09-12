@@ -2,7 +2,7 @@
 
 I am Bryan, I'm a Cambridge trained Computational Biologist. Ex startup founder backed by Entrepreneur First, Europe's leading incubator. AI for Biology and Healthcare Tinkerer. Core AI/ML at Tier 1 VC-Backed SF startups and under Stanford mentors. Rank No. 1 graduate with Triple 1st Class Honours from the University of Cambridge. BA in Biology and Genetics, MSc in Computational and Systems Biology. Trained in Big Data Biology & Health, AI, and Finance.
 
-- 🔭 At Radical Health, I am building an AI cancer doctor backed by Khosla Ventures. Previously I've built explanatory and predictive models of complex biological systems for the UK Medical Research Council and the University of Cambridge and have worked as a Multiomic Data analyst for the [ Durbin lab](https://scholar.google.co.uk/citations?user=5UfPNmQAAAAJ&hl=en) and Gurdon Cancer Research Institute.
+- 🔭 At Radical Health, I am building an AI for cancer backed by Khosla Ventures. Previously I've built explanatory and predictive models of complex biological systems for the UK Medical Research Council and the University of Cambridge and have worked as a Multiomic Data analyst for the [ Durbin lab](https://scholar.google.co.uk/citations?user=5UfPNmQAAAAJ&hl=en) and Gurdon Cancer Research Institute.
 - 🌱 I’m builder multi-agent systems driven by Transformer and Diffusion models that were trained on multimodal healthcare datasets.
 - 💬 Ask me about Biology and Omics!
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/bryantanwz/)
