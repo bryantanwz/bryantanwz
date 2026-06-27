@@ -4,7 +4,7 @@ I am Bryan, I'm a Cambridge trained Computational Biologist. CTO at Radical, bac
 
 - 🔭 I am building AI for cancer. Previously I've built explanatory and predictive models of complex biological systems for the UK Medical Research Council and the University of Cambridge and have worked as a Multiomic Data analyst for the [ Durbin lab](https://scholar.google.co.uk/citations?user=5UfPNmQAAAAJ&hl=en) and Gurdon Cancer Research Institute.
 - building multi-agent systems driven by Transformer models trained on multimodal healthcare datasets.
-- 💬 Ask me about Biology and Omics!
+- 💬 Ask me about Genetics, Evolutionary Biology, and Omics!
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/bryantanwz/)
 
 <!--
